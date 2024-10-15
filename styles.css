@@ -180,7 +180,7 @@ footer{
     align-items: center;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
     nav{
         height: 100px;
         display: flex;
@@ -197,7 +197,6 @@ footer{
     .nav-bar{
         display: flex;
         flex-direction: column;
-
     }
     .logo{
         width: 30%;
